@@ -1,6 +1,6 @@
 # 🌟 Hey there, I'm Mazen! 👋  
 
-![Banner](https://miro.medium.com/v2/resize:fit:828/format:webp/1*O9pYXOq8roaoJsVzBdH_OQ.jpeg)  
+
 
 I'm a **third-year Computer Science student** 🎓. My journey in **backend development** has been driven by my passion for solving complex problems, creating APIs, and constantly learning new technologies.  
 
