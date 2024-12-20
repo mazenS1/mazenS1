@@ -51,7 +51,7 @@ I'm a **third-year Computer Science student** 🎓. My journey in **backend deve
 ---
 
 ## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/mazen-alabdulatiff-b8b919215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-alabdulatiff-b8b919215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazen.saleh.36@gmail.com)  
 
 ---
