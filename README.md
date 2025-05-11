@@ -38,17 +38,6 @@ I'm a **third-year Computer Science student** 🎓. My journey in **backend deve
 - Scaling APIs for large user bases
 ---
 
-## 🛠️ Current Projects  
-
-1. **🎥 Movie Recommendation System**  
-   A system offering personalized recommendations, optimized for a small user base.  
-   - 🛠️ Tools: Python (recommendation logic), Node.js  
-
-2. **🏠 Real Estate Management Web App**  
-   A system designed for landlords to manage their properties.  
-   - 🔐 Authentication powered by **Auth0**  
-
----
 
 ## 🌍 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-alabdulatiff-b8b919215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
