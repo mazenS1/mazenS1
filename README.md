@@ -8,8 +8,8 @@ I'm a **third-year Computer Science student** 🎓. My journey in **backend deve
 
 ## 🚀 About Me  
 - 🌐 **Backend Enthusiast** | Languages: **Python**, **Java**, **JavaScript**, and **Node.js**.  
-- 🛠️ Building tools like an **recommendation systems**.  
-- ✨ Enjoy bringing my ideas to life with projects like **movie recommendation apps**, **real estate systems**, and more!  
+- 🛠️ **Cloud intrest** | **AWS**.  
+- ✨ Enjoy bringing my ideas to life with projects like **movie recommendation apps**, **Media Delivery Systems**, and more!  
 
 ---
 
@@ -24,17 +24,18 @@ I'm a **third-year Computer Science student** 🎓. My journey in **backend deve
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
    
 
-### Tools & Platforms  
+### Tools & Platforms 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-0468d7?style=for-the-badge&logo=render&logoColor=white) 
 ![Fly.io](https://img.shields.io/badge/Fly.io-232F3E?style=for-the-badge&logo=flydotio&logoColor=white) 
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)  
+
 
 ---
 
 ## 📚 What I'm Learning  
-- Advanced backend architectures  
+- Advanced backend architectures
+- Cloud Soloution architectures  
 - Scaling APIs for large user bases
 ---
 
