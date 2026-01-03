@@ -14,6 +14,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://stats-repo-six.vercel.app/api/top-langs/?username=mazenS1&layout=compact&theme=dark&hide_border=true&hide=Dart" alt="Most Used Languages" />
+
+
+  <img src="https://stats-repo-six.vercel.app/api?username=mazenS1&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs&hide_rank=true&include_all_commits=true&line_height=40" alt="GitHub Stats" />
+</p>
+
+
+---
+
 ## 🚀 About Me
 
 I'm a backend developer who loves turning complex problems into elegant solutions. My journey in software development is driven by curiosity and a constant desire to learn. Whether it's designing RESTful APIs, optimizing database queries, or deploying applications to the cloud, I'm always excited to dive deep into the technical challenges.
