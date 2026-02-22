@@ -1,6 +1,6 @@
 # Mazen Alabdulatif
 
-Backend developer focused on building practical systems that solve real problems. I mainly work on APIs, cloud infrastructure, and performance-oriented backend services.
+Backend developer focused on building practical systems that solve real problems. I mainly work on APIs, cloud infrastructure, and performance oriented backend services.
 
 Senior Computer Science student (graduating 2026) based in Saudi Arabia.
 
