@@ -45,7 +45,7 @@ Secure media delivery system built for photography clients.
 * CDN caching for performance
 * Handles large-scale media distribution
 
-[www.mazenart.com](http://www.mazenart.com)
+
 
 
 ## Tech Stack
