@@ -14,6 +14,8 @@ Senior Computer Science student (graduating 2026) based in Saudi Arabia.
 
 ---
 
+<p > <img src="https://stats-repo-six.vercel.app/api/top-langs/?username=mazenS1&layout=compact&theme=dark&hide_border=true&hide=Dart&v=1" alt="Most Used Languages" /> </p>
+
 ## What I Do
 
 * Build backend systems
