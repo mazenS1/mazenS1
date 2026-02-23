@@ -9,8 +9,8 @@ Senior Computer Science student (graduating 2026) based in Saudi Arabia.
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-alabdulatif/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazen.alabdulatif@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00aaff?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://mazen.my)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazen@mazen.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00aaff?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://mazen.me)
 ---
 
 <p align = "center"> <img src="https://stats-repo-six.vercel.app/api/top-langs/?username=mazenS1&layout=compact&theme=dark&hide_border=true&hide=Dart&v=1" alt="Most Used Languages" />
