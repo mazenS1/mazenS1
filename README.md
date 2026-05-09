@@ -14,7 +14,7 @@ Senior Computer Science student (graduating 2026) based in Saudi Arabia.
 ---
 
 <p align = "center"> <img src="https://stats-repo-six.vercel.app/api/top-langs/?username=mazenS1&layout=compact&theme=dark&hide_border=true&hide=Dart&v=1" alt="Most Used Languages" />
-<img src="https://stats-repo-six.vercel.app/api?username=mazenS1&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs&hide_rank=true&include_all_commits=true&line_height=40" alt="GitHub Stats" />
+<img src="https://stats-repo-six.vercel.app/api?username=mazenS1&show_icons=true&theme=dark&hide_border=true&hide=,issues,contribs&hide_rank=&include_all_commits=true&line_height=30" alt="GitHub Stats" />
 </p>
 
 ## What I Do
