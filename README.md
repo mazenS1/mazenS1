@@ -9,7 +9,7 @@ Final year CS student, based in Riyadh.
  
 <p align="center">
   <img src="https://stats-repo-six.vercel.app/api/top-langs/?username=mazenS1&layout=compact&theme=dark&hide_border=true&hide=Dart&v=1" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazenS1&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mazenS1&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&include_all_commits=true&line_height=30" alt="GitHub Stats" />
 </p>
  
 ---
