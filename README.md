@@ -42,7 +42,7 @@ Computer vision pipeline for real-time drone detection and classification.
 | | |
 |---|---|
 | **Languages** | TypeScript, Python, Java, SQL |
-| **Backend** | Node.js, Express, FastAPI, Flask |
+| **Backend** | Node.js, Express, FastAPI, Flask, SpringBoot |
 | **Cloud** | AWS, Cloudflare Workers, Docker |
 | **Data** | PostgreSQL, MongoDB, Redis |
  
